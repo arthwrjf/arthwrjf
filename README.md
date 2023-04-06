@@ -1,9 +1,9 @@
 ## Hello 👋, my name is Artur Augusto de Souza and currently I'm:
 
 
-✏️ Frontend Developer Formed at Kenzie Academy Brasil
+- ✏️ Frontend Developer Formed at Kenzie Academy Brasil
 
-✨ Portuguese and English Speaker
+- ✨ Portuguese and English Speaker
 
 
 
