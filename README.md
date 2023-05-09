@@ -1,4 +1,4 @@
-## Hello 👋, my name is Artur Augusto de Souza and currently I'm:
+## Hello 👋, my name is Artur de Souza and currently I'm:
 
 
 - ✏️ Frontend Developer Formed at Kenzie Academy Brasil
