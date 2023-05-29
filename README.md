@@ -3,7 +3,7 @@
 
 - ✏️ Frontend Developer Formed at Kenzie Academy Brasil
 
-- ✨ Portuguese and English Speaker
+- ✨ I have basic English and Spanish for writing and reading.
 
 <div>
 <a href="https://github.com/arthwrjf">
